@@ -19,4 +19,4 @@
 | 13. git pull --rebase origin nombreRama | a                                                                               |
 | 14. git rebase --continue               | a                                                                               |
 | 15. git push origin+nombreRama          | Esto fuerza a hacer un git push independiemente de los conflictos que existan ⚠️ |
-| 16.                                     |
+| 16.          a                          |
