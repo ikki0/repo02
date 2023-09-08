@@ -1,0 +1,1 @@
+Prueba creación archivo index.txt después de hacer un git clone.
